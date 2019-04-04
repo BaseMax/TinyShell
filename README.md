@@ -1,1 +1,1 @@
-# TinyShell
+# Tiny Shell
